@@ -6,6 +6,7 @@ venv/
 uploads/
 .env*
 !.env.example
+!frontend/.env.example
 demo/*.mp4
 .pytest_cache/
 node_modules/
