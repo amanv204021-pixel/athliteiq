@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.db
+uploads/
+.env*
+!.env.example
+demo/*.mp4
+.pytest_cache/
+node_modules/
+frontend/dist/
+image-search/
+
+# AI model weights - fetched via scripts/download_model.py
+app/ai/models/*.task
+
+# MediaPipe web runtime (copied from node_modules by scripts/setup_live.sh)
+frontend/public/mediapipe/
+
+# self-signed certs for local HTTPS (run_local.sh --https)
+.certs/
