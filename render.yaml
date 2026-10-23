@@ -9,6 +9,7 @@ services:
     name: athliteiq
     runtime: python
     plan: free
+    autoDeployTrigger: off
     buildCommand: >-
       pip install -r requirements.txt &&
       python scripts/download_model.py &&
