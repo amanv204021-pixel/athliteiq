@@ -1,5 +1,7 @@
 # AthliteIQ — AI Sports Talent Assessment
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https%3A%2F%2Fgithub.com%2Famanv204021-pixel%2Fathliteiq)
+
 A full-stack platform that democratizes sports talent assessment. Athletes
 anywhere record standard fitness tests on a phone, get **AI-scored results
 from real pose estimation**, and appear on regional and national leaderboards
